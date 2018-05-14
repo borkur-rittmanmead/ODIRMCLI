@@ -953,7 +953,7 @@ class git2odi {
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpScen">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 15:30:14.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 19:12:44.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndPromptParam" type="java.lang.String"><![CDATA[1]]></Field>
@@ -962,9 +962,9 @@ class git2odi {
 	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScenFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[79001]]></Field>
+	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[81001]]></Field>
 	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 15:30:14.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 19:12:45.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ScenName" type="java.lang.String"><![CDATA[RELEASE]]></Field>
 	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[1001]]></Field>
@@ -972,7 +972,7 @@ class git2odi {
 	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpExpTxtHeader">
-		<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[79001]]></Field>
+		<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[81001]]></Field>
 	<Field name="Txt" type="java.lang.String"><![CDATA[RELEASE_TAG:1.0]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpVarScen">
@@ -1935,7 +1935,7 @@ class odi2git {
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpScen">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 14:53:42.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 15:30:15.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndPromptParam" type="java.lang.String"><![CDATA[1]]></Field>
@@ -1944,9 +1944,9 @@ class odi2git {
 	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScenFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[78001]]></Field>
+	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[80001]]></Field>
 	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 14:53:42.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-14 15:30:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ScenName" type="java.lang.String"><![CDATA[DEPLOY]]></Field>
 	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2001]]></Field>
@@ -1954,7 +1954,7 @@ class odi2git {
 	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpExpTxtHeader">
-		<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[78001]]></Field>
+		<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[80001]]></Field>
 	<Field name="Txt" type="java.lang.String"><![CDATA[RELEASE_TAG:1.0]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpVarScen">
