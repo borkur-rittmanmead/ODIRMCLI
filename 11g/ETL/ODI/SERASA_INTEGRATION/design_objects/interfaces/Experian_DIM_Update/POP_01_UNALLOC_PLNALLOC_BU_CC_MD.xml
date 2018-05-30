@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SunopsisExport>
+<Admin RepositoryVersion="04.03.04.02" />
+<Object class="com.sunopsis.dwg.dbobj.SnpPop">
+		<Field name="CommitWork" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DistinctRows" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2015-10-31 19:17:19.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndWorkTarg" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[10002]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPartition" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[387002]]></Field>
+	<Field name="IScBasePop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScOrigPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[555002]]></Field>
+	<Field name="ITrtKcm" type="com.sunopsis.sql.DbInt"><![CDATA[38002]]></Field>
+	<Field name="ITrtKim" type="com.sunopsis.sql.DbInt"><![CDATA[65002]]></Field>
+	<Field name="ITrtKlm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtPopLib" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KeyName" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2015-10-31 19:17:44.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LschemaName" type="java.lang.String"><![CDATA[PLNALLOC_Repository]]></Field>
+	<Field name="MaxErr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="MaxErrPrct" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ModCode" type="java.lang.String">null</Field>
+	<Field name="OptCtxCode" type="java.lang.String"><![CDATA[GLOBAL]]></Field>
+	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PopName" type="java.lang.String"><![CDATA[01_UNALLOC_PLNALLOC_BU_CC_MD]]></Field>
+	<Field name="TableName" type="java.lang.String"><![CDATA[CostCentre]]></Field>
+	<Field name="TargCtxCod" type="java.lang.String">null</Field>
+	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="Wstage" type="java.lang.String"><![CDATA[E]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpDiagram">
+		<Field name="Background" type="java.lang.String">null</Field>
+	<Field name="DiagExt" type="java.lang.String"><![CDATA[etl_flow]]></Field>
+	<Field name="DiagName" type="java.lang.String"><![CDATA[etl_flow]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2015-10-31 19:17:19.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="ImageableHeight" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableWidth" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IDiagram" type="com.sunopsis.sql.DbInt"><![CDATA[942002]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[387002]]></Field>
+	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtDiagDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtXmiData" type="com.sunopsis.sql.DbInt"><![CDATA[9272002]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2015-10-31 19:17:19.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="Orientation" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PaperHeight" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PaperWidth" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Scaling" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[9272002]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:DI='http://xmlns.omg.org/DI/2.0'>
+  <documentation exporter='Oracle IDE' exporterVersion='11.1.1'/>
+  <DI:Diagram xmi:id='id25d52b60-d85b-4a9d-a12a-ce69e58852d2' zoom='0.0'>
+    <contained xmi:type='DI:GraphNode' xmi:id='id7bf380b7-a159-4308-b2a4-0a09ef3e4e30'>
+      <anchorage xmi:id='id762692a7-39d1-490d-aabe-56da833d41d7' graphEdge='id4ae813fc-74f3-4e93-9b0d-b2fb0803ead7'/>
+      <contained xmi:type='DI:GraphNode' xmi:id='idba75a6bd-76bc-4cbb-9f37-0552a22e361e'>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+        <size height='40.0' width='40.0'/>
+      </contained>
+      <contained xmi:type='DI:GraphNode' xmi:id='id65121937-1d17-4b5a-a369-b72ca58a2e19'>
+        <contained xmi:type='DI:GraphNode' xmi:id='ida64b61dd-e879-4ef3-ac35-8dac3b8239bd'>
+          <contained xmi:type='DI:GraphNode' xmi:id='id8852b0dd-42dc-4f22-927c-73a5b719b1fc'>
+            <contained xmi:type='DI:GraphNode' xmi:id='ida503bdbf-79cb-45ea-84e0-d3854fd1dbe3'>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+              <size height='40.0' width='40.0'/>
+            </contained>
+            <contained xmi:type='DI:GraphNode' xmi:id='id0228e97e-e755-4617-ad1d-0fc253593654'>
+              <contained xmi:type='DI:GraphNode' xmi:id='id6c01f192-a93b-4924-8d08-b1a473c20a6b'>
+                <contained xmi:type='DI:GraphNode' xmi:id='idc12e92ac-e158-4953-8b53-918839510db6'>
+                  <contained xmi:type='DI:GraphNode' xmi:id='idea408d1f-3794-4ffa-ba52-d41b623cdeb3'>
+                    <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+                    <size height='57.47607421875' width='160.796875'/>
+                  </contained>
+                  <contained xmi:type='DI:GraphNode' xmi:id='id9935878f-6f55-4336-9544-78b56a14569d'>
+                    <contained xmi:type='DI:GraphNode' xmi:id='id110fe56a-2e63-47e8-b7eb-fb41cef5fe27'>
+                      <property key='FirstVisibleIndex' value='0'/>
+                      <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+                      <size height='1.0' width='0.0'/>
+                    </contained>
+                    <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+                    <size height='100.0' width='100.0'/>
+                  </contained>
+                  <position x='1.239776611328125E-5' y='-1.5497207641601562E-6'/>
+                  <property key='showAttributeType' value='true'/>
+                  <property key='showAttributeStatic' value='true'/>
+                  <property key='showAttributeVisibility' value='true'/>
+                  <property key='fontColor' value='#0'/>
+                  <property key='showPackage' value='false'/>
+                  <property key='showAttributes' value='true'/>
+                  <property key='sortAttributesAlpha' value='true'/>
+                  <property key='lineColor' value='#a5a5a5'/>
+                  <property key='font' value='SansSerif,plain,11'/>
+                  <property key='fillColor' value='#c6d6ff'/>
+                  <property key='showStereotype' value='false'/>
+                  <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFD;;C1199002' presentation='COMPACT'/>
+                  <size height='57.47607421875' width='160.796875'/>
+                </contained>
+                <position x='-5.999987602233887' y='-1.5497207641601562E-6'/>
+                <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='BodyCompartment'/>
+              </contained>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='EXPANDED'/>
+              <size height='97.31201171875' width='192.796875'/>
+            </contained>
+            <position x='-6.039843559265137' y='-0.8738037347793579'/>
+            <property key='GroupName' value='Group3'/>
+            <property key='lineColor' value='#a5a5a5'/>
+            <property key='titleAlignment' value='CENTER'/>
+            <property key='font' value='SansSerif,plain,11'/>
+            <property key='lineWidth' value='1.0'/>
+            <property key='fontColor' value='#0'/>
+            <property key='fillColor' value='#ffffcc'/>
+            <property key='showTitle' value='true'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFDS;;A423002' presentation='EXPANDED'/>
+            <size height='97.31201171875' width='192.796875'/>
+          </contained>
+          <position x='-6.039843559265137' y='-0.8738037347793579'/>
+          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='BodyCompartment'/>
+        </contained>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='EXPANDED'/>
+        <size height='139.8359375' width='218.796875'/>
+      </contained>
+      <position x='270.0' y='11.0'/>
+      <property key='GroupName' value='Group1'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='titleAlignment' value='CENTER'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='fontColor' value='#0'/>
+      <property key='fillColor' value='#c6d6ff'/>
+      <property key='showTitle' value='true'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFASW;;SE387002' presentation='EXPANDED'/>
+      <size height='139.8359375' width='218.796875'/>
+    </contained>
+    <contained xmi:type='DI:GraphNode' xmi:id='id5768a425-d40f-4647-8520-6c8ba0f2fdbf'>
+      <contained xmi:type='DI:GraphNode' xmi:id='ide5995e35-cf2b-4d99-8d64-2b66de09b6a5'>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+        <size height='40.0' width='40.0'/>
+      </contained>
+      <contained xmi:type='DI:GraphNode' xmi:id='id6c0358fb-2dd5-4e61-9fae-758a04d803e3'>
+        <contained xmi:type='DI:GraphNode' xmi:id='id5963fc3d-a5de-4991-8c7c-cf6c354e380e'>
+          <contained xmi:type='DI:GraphNode' xmi:id='id3dc9a1e1-9706-417d-8a87-d260d82b050a'>
+            <anchorage xmi:id='id6de6e7ea-5e2a-4a03-aa83-220f550dc70b' graphEdge='id4ae813fc-74f3-4e93-9b0d-b2fb0803ead7'/>
+            <contained xmi:type='DI:GraphNode' xmi:id='id7d22551b-d481-440c-a420-62adfbbde2bd'>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+              <size height='40.0' width='40.0'/>
+            </contained>
+            <contained xmi:type='DI:GraphNode' xmi:id='id2bad9149-b370-4780-bf19-6e9ee8b7fb4f'>
+              <contained xmi:type='DI:GraphNode' xmi:id='idf656fcc7-555b-40b1-81b4-a676bf60e927'>
+                <property key='FirstVisibleIndex' value='0'/>
+                <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+                <size height='1.0' width='0.0'/>
+              </contained>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+              <size height='100.0' width='100.0'/>
+            </contained>
+            <position x='-0.8999999761581421' y='-0.8738037347793579'/>
+            <property key='showAttributeType' value='true'/>
+            <property key='showAttributeStatic' value='true'/>
+            <property key='showAttributeVisibility' value='true'/>
+            <property key='fontColor' value='#0'/>
+            <property key='showPackage' value='false'/>
+            <property key='showAttributes' value='true'/>
+            <property key='sortAttributesAlpha' value='true'/>
+            <property key='lineColor' value='#a5a5a5'/>
+            <property key='font' value='SansSerif,plain,11'/>
+            <property key='fillColor' value='#c6d6ff'/>
+            <property key='showStereotype' value='false'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFD;;D387002' presentation='COMPACT'/>
+            <size height='40.0' width='40.0'/>
+          </contained>
+          <position x='-0.9000244140625' y='-0.8738021850585938'/>
+          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='BodyCompartment'/>
+        </contained>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='EXPANDED'/>
+        <size height='100.0' width='132.0'/>
+      </contained>
+      <position x='562.796875' y='10.999996185302734'/>
+      <property key='GroupName' value='Group2'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='titleAlignment' value='CENTER'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='fontColor' value='#0'/>
+      <property key='fillColor' value='#c6d6ff'/>
+      <property key='showTitle' value='true'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFAST;;T387002' presentation='EXPANDED'/>
+      <size height='100.0' width='132.0'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id4ae813fc-74f3-4e93-9b0d-b2fb0803ead7' anchor='id762692a7-39d1-490d-aabe-56da833d41d7 id6de6e7ea-5e2a-4a03-aa83-220f550dc70b'>
+      <contained xmi:type='DI:GraphNode' xmi:id='id32f53770-01b3-4df6-bf13-5a059d958211'>
+        <position x='-126.08380126953125' y='45.6488037109375'/>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+      </contained>
+      <property key='lineColor' value='#646464'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='EdgeType' value='0'/>
+      <property key='fontColor' value='#0'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;SE387002-D387002'/>
+      <waypoint x='488.796875' y='80.91796875'/>
+      <waypoint x='574.796875' y='56.835933685302734'/>
+    </contained>
+    <property key='minLayoutDistance' value='40'/>
+    <property key='maxShapeWidth' value='200'/>
+    <property key='snapToGrid' value='false'/>
+    <property key='PageOrientation' value='1'/>
+    <property key='antialiasText' value='true'/>
+    <property key='maxEntriesInShape' value='10'/>
+    <property key='EdgeCrossingType' value='2'/>
+    <property key='ContainerLayoutStyle' value='1'/>
+    <property key='gridSize' value='15'/>
+    <property key='showGrid' value='false'/>
+    <property key='DiagramLayoutStyle' value='1'/>
+    <property key='PaperOrientation' value='Portrait'/>
+    <property key='PaperWidth' value='595.2756'/>
+    <property key='PaperHeight' value='841.8898'/>
+    <property key='PaperLeftMargin' value='35.43307'/>
+    <property key='PaperTopMargin' value='35.43307'/>
+    <property key='PaperRightMargin' value='35.43307'/>
+    <property key='PaperBottomMargin' value='35.43307'/>
+    <property key='PrintAreaX' value='0'/>
+    <property key='Print

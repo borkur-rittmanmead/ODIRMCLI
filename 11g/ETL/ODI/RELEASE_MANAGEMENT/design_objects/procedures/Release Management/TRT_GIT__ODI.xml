@@ -3,26 +3,26 @@
 <Admin RepositoryVersion="04.03.04.02" />
 <Object class="com.sunopsis.dwg.dbobj.SnpTrt">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-04-04 11:47:51.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-03-26 15:05:51.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
 	<Field name="IndSuppSetBased" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[1001]]></Field>
-	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1001]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[15021]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[3021]]></Field>
 	<Field name="IScBaseTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScOrigTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[4001]]></Field>
-	<Field name="ITxtTrtTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[104021]]></Field>
+	<Field name="ITxtTrtTxt" type="com.sunopsis.sql.DbInt"><![CDATA[20989021]]></Field>
 	<Field name="KimMultiDserver" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="KmDefault" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="KmSrcTechno" type="java.lang.String">null</Field>
 	<Field name="KmTechno" type="java.lang.String"><![CDATA[GROOVY]]></Field>
 	<Field name="KmVersion" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-04-04 11:47:51.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-30 16:00:03.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LChecksum" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="LCode" type="java.lang.String">null</Field>
@@ -30,6 +30,20 @@
 	<Field name="TrtName" type="java.lang.String"><![CDATA[GIT->ODI]]></Field>
 	<Field name="TrtType" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[20989021]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[107]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[RELEASE_TAG:1.8]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[107]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Edit Command]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_TXT_TRT_TXT]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_TRT]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
 		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[1]]></Field>
@@ -45,17 +59,17 @@
 	<Field name="DefContextCode" type="java.lang.String"><![CDATA[GLOBAL]]></Field>
 	<Field name="DefIndCommit" type="java.lang.String">null</Field>
 	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
-	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[4001]]></Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[20985021]]></Field>
 	<Field name="DefLschemaName" type="java.lang.String">null</Field>
 	<Field name="DefPlanComp" type="java.lang.String">null</Field>
 	<Field name="DefTechno" type="java.lang.String"><![CDATA[GROOVY]]></Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-04-04 11:47:51.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-03-26 15:05:51.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndLogFinalCmd" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String">null</Field>
 	<Field name="IndLogNb" type="java.lang.String">null</Field>
-	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[4001]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[104021]]></Field>
 	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
@@ -81,7 +95,7 @@
 	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="KxmUsed" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-04-04 11:47:51.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-30 16:00:05.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
 	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
@@ -90,11 +104,11 @@
 <Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
 		<Field name="Enc" type="java.lang.String">null</Field>
 	<Field name="EncKey" type="java.lang.String">null</Field>
-	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[4001]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[20985021]]></Field>
 	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
 	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
- <Field name="Txt" type="java.lang.String"><![CDATA[package com.rittmanmead.mtndevops
-
+ <Field name="Txt" type="java.lang.String"><![CDATA[package com.rittmanmead.odirmtcli
+//This is the comment for 1.8
 import oracle.odi.core.OdiInstance
 import oracle.odi.core.config.MasterRepositoryDbInfo
 import oracle.odi.core.config.OdiInstanceConfig
@@ -112,15 +126,77 @@ import org.eclipse.jgit.api.Git
 import org.eclipse.jgit.api.PullCommand
 import org.eclipse.jgit.internal.storage.file.FileRepository
 import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider
+import org.jasypt.encryption.pbe.StandardPBEStringEncryptor
+import org.jasypt.properties.EncryptableProperties
+import org.jasypt.util.text.BasicTextEncryptor
 
 import java.util.logging.Level
 import java.util.logging.Logger
 
 class git2odi {
+     static Properties getProperties(String configFile){
+         String p1="4WjQSVzZgU"
+         String p2="OVESWUlZS4"
+         String p3="Nvjcz08qZU"
+         String p4="vF6Js1rgr2"
+         String p5="lmve7nNzqY"
+         String p6="WGKkoRdvnA"
+         String p7="1UvbuKZ9G0"
+         String p8="mM2aEu7E83"
+         String p9="u8BcqRlUBE"
+         String p0="yxmTRQsXaF"
+         String l_p=p1+p2+p3+p4+p5+p6+p7+p8+p9+p0
+        StandardPBEStringEncryptor encryptor = new StandardPBEStringEncryptor()
+        encryptor.setPassword(l_p); // could be got from web, env variable...
+        Properties encryptedProp = new EncryptableProperties(encryptor)
+        Properties clearProp = new Properties()
 
+        int changes = 0
+        try {
+            FileInputStream inEncr = new FileInputStream(configFile)
+            FileInputStream inClear = new FileInputStream(configFile)
+            encryptedProp.load(inEncr)
+            inEncr.close()
+            clearProp.load(inClear);
+            inClear.close();
+            //Loop through all properties in file
+            //if property contains 'password' then it should be encrypted
+            //if not encrypted, then replace with encrypted version
+            Enumeration<String> e = encryptedProp.propertyNames()
+            while (e.hasMoreElements()) {
+                String key = (String) e.nextElement()
+                String value = clearProp.getProperty(key)
+                if(key.startsWith("password") || key.endsWith("password")){
+                    if(!value.startsWith("ENC(")){
+                        System.out.println("Password is not encrypted")
+                        BasicTextEncryptor textEncryptor = new BasicTextEncryptor()
+                        textEncryptor.setPassword(l_p)
+                        String myEncryptedText = textEncryptor.encrypt(value)
+                        System.out.println("New Password: "+myEncryptedText)
+                        //For some reason, the setProperty on encryptedProp will
+                        //actually decrypt the password and save as cleartext!
+                        //that's why we use clearProp to write the value back
+                        clearProp.setProperty(key,"ENC("+myEncryptedText+")")
+                        changes++
+                    }
+                }
+                if (changes!=0){
+                    FileOutputStream out = new FileOutputStream(configFile)
+                    clearProp.store(out,null)
+                    out.close()
+                }
+            }
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+        return encryptedProp;
+    }
     static main(args) {
 
-        //--------------------------------------------------------------
+        def git
+        LoggerUtils.setLogLevel(Logger.global, Level.OFF)
+		
+		//--------------------------------------------------------------
         // Configuration START
 
         //def configDir = "d:\\ODIRMT\\config\\"
@@ -134,93 +210,113 @@ class git2odi {
 
         //def import_design_objects = 1
         def import_design_objects = "#RELEASE_MANAGEMENT.IMPORT_DESIGN_OBJECTS"
+		
+		def pull_from_git = true
+		def deploy_to_odi = true
 
         // Configuration END
         //--------------------------------------------------------------
 
-        def git
-        LoggerUtils.setLogLevel(Logger.global, Level.OFF)
+        Properties gitProps = new Properties()
+        File gitPropFile = new File(configDir, 'git.properties')
+        Properties envProps = new Properties()
+        File envPropFile = new File(configDir, targetEnv + '.properties')
+
 
         // Load git properties
-        Properties gitProps = new Properties()
-        File gitPropFile = new File(configDir + 'git.properties')
-        gitProps.load(gitPropFile.newDataInputStream())
-
-        // Load environment properties
-        Properties envProps = new Properties()
-        File envPropFile = new File(configDir + targetEnv + '.properties')
-        envProps.load(envPropFile.newDataInputStream())
-
-        //
-        // Clone/Pull from remote repository to local
-        //
-        if ( new File(gitProps.localGitDir + '\\.git').exists()) {
-            println "pulling"
-            def localRepo = new FileRepository(gitProps.localGitDir + "\\.git");
-            git = new Git(localRepo)
-            PullCommand pullCmd = git.pull().setCredentialsProvider( new UsernamePasswordCredentialsProvider(gitProps.username,gitProps.password))
-            pullCmd.call()
-        } else {
-            println "cloning"
-            git = Git.cloneRepository()
-                .setURI(gitProps.remoteGitUrl)
-                .setCredentialsProvider( new UsernamePasswordCredentialsProvider(gitProps.username,gitProps.password))
-                .setDirectory(new File(gitProps.localGitDir))
-                .call()
+        try {
+            //gitProps.load(gitPropFile.newDataInputStream())
+            gitProps = getProperties(gitPropFile.toString())
+        } catch (FileNotFoundException e) {
+            println "ERROR: git.properties not found in ${configDir}"
+            System.exit(1)
         }
 
+        // Load environment properties
+        try {
+            //envProps.load(envPropFile.newDataInputStream())
+            envProps = getProperties(envPropFile.toString())
+        } catch (FileNotFoundException e) {
+            println "ERROR: ${targetEnv}.properties not found in ${configDir}"
+            System.exit(1)
+        }
+        if(pull_from_git) {
+            //
+            println "\nClone/Pull from remote repository to local"
+            //
+            if (new File(gitProps.localGitDir, '.git').exists()) {
+                println "Local Git Repository Already Exists, Pulling from ${gitProps.remoteGitUrl}"
+                def localRepo = new FileRepository(gitProps.localGitDir + "/.git");
+                git = new Git(localRepo)
+                PullCommand pullCmd = git.pull().setCredentialsProvider(new UsernamePasswordCredentialsProvider(gitProps.username, gitProps.password))
+                pullCmd.call()
+            } else {
+                println "Local Git Repository Does Not Exist, Cloning from ${gitProps.remoteGitUrl}"
+                git = Git.cloneRepository()
+                        .setURI(gitProps.remoteGitUrl)
+                        .setCredentialsProvider(new UsernamePasswordCredentialsProvider(gitProps.username, gitProps.password))
+                        .setDirectory(new File(gitProps.localGitDir))
+                        .call()
+            }
+            git.close()
+        }
         //
         // Import scenarios for the given release
         //
-        MasterRepositoryDbInfo masterInfo = new MasterRepositoryDbInfo(envProps.jdbc_url, envProps.jdbc_driver, envProps.jdbc_username, envProps.jdbc_password.toCharArray(), new PoolingAttributes())
-        WorkRepositoryDbInfo workInfo = new WorkRepositoryDbInfo(envProps.odi_work_repo, new PoolingAttributes())
-        OdiInstance odiInstance = OdiInstance.createInstance(new OdiInstanceConfig(masterInfo, workInfo))
-        Authentication auth = odiInstance.getSecurityManager().createAuthentication(envProps.odi_studio_user, envProps.odi_studio_password.toCharArray())
-        odiInstance.getSecurityManager().setCurrentThreadAuthentication(auth)
-        DefaultTransactionDefinition txnDef = new DefaultTransactionDefinition()
-        ITransactionManager tm = odiInstance.getTransactionManager()
-        IOdiEntityManager tme = odiInstance.getTransactionalEntityManager()
-        ITransactionStatus trans = tm.getTransaction(txnDef)
-        EncodingOptions EncdOption = new EncodingOptions()
-        ImportServiceImpl imp = new ImportServiceImpl(odiInstance)
+        if(deploy_to_odi) {
+            println "\nDeploying to ODI"
+            println "\nConnecting to the ODI Repository"
+            MasterRepositoryDbInfo masterInfo = new MasterRepositoryDbInfo(envProps.jdbc_url, envProps.jdbc_driver, envProps.jdbc_username, envProps.jdbc_password.toCharArray(), new PoolingAttributes())
+            WorkRepositoryDbInfo workInfo = new WorkRepositoryDbInfo(envProps.odi_work_repo, new PoolingAttributes())
+            OdiInstance odiInstance = OdiInstance.createInstance(new OdiInstanceConfig(masterInfo, workInfo))
+            Authentication auth = odiInstance.getSecurityManager().createAuthentication(envProps.odi_studio_user, envProps.odi_studio_password.toCharArray())
+            odiInstance.getSecurityManager().setCurrentThreadAuthentication(auth)
+            DefaultTransactionDefinition txnDef = new DefaultTransactionDefinition()
+            ITransactionManager tm = odiInstance.getTransactionManager()
+            IOdiEntityManager tme = odiInstance.getTransactionalEntityManager()
+            ITransactionStatus trans = tm.getTransaction(txnDef)
+            EncodingOptions EncdOption = new EncodingOptions()
+            ImportServiceImpl imp = new ImportServiceImpl(odiInstance)
 
-        if ( odiInstance.workRepository.type.toString() == 'DESIGN' && import_design_objects > 0 ) {
-            // Import design objects
-            def getDesignObjectFiles
-            getDesignObjectFiles = { File dir ->
-                for (File file : dir.listFiles()) {
-                    if (file.isDirectory()) {
-                        getDesignObjectFiles(file)
-                    } else {
-                        try {
-                            imp.importObjectFromXml(4, file.getAbsolutePath(), true)
-                        } catch (e) {
-                            println e
+            if (odiInstance.workRepository.type.toString() == 'DESIGN' && import_design_objects ) {
+                // Import design objects
+                println "\nImporting Design Objects into Environment: ${targetEnv}"
+                def getDesignObjectFiles
+                getDesignObjectFiles = { File dir ->
+                    for (File file : dir.listFiles()) {
+                        if (file.isDirectory()) {
+                            getDesignObjectFiles(file)
+                        } else {
+                            try {
+                                println "\tImporting ${file.getAbsolutePath()}"
+                                imp.importObjectFromXml(4, file.getAbsolutePath(), true)
+                            } catch (e) {
+                                println e
+                            }
                         }
-
                     }
                 }
+                getDesignObjectFiles(new File(gitProps.localGitDir + "/" + gitProps.baseDir + "/" + release_tag + "/design_objects/"))
+                getDesignObjectFiles(new File(gitProps.localGitDir + "/" + gitProps.baseDir + "/" + release_tag + "/models/"))
             }
-            getDesignObjectFiles(new File(gitProps.localGitDir + release_tag + "\\design_objects\\"))
-        }
 
-        // Import Scenarios
-        def currentDir = new File(gitProps.localGitDir +  release_tag + '\\scenarios')
-        try {
-            currentDir.eachFile { File file ->
-                imp.importObjectFromXml(4, file.getAbsolutePath(), true)
+            // Import Scenarios
+            println "\nImporting Scenarios into Environment: ${targetEnv}"
+            def currentDir = new File(gitProps.localGitDir + "/" + gitProps.baseDir + "/" + release_tag + '/scenarios/')
+            try {
+                currentDir.eachFile { File file ->
+                    imp.importObjectFromXml(4, file.getAbsolutePath(), true)
+                    println "\tImported ${file.getAbsolutePath()}"
+                }
+            } catch (FileNotFoundException e) {
+                println "Release tag does not exist in VCS"
             }
-        } catch ( FileNotFoundException e) {
-            println "Release tag does not exist in VCS"
-        }
 
-        tm.commit(trans)
-        odiInstance.close()
-        git.close()
+            tm.commit(trans)
+            odiInstance.close()
+        }
     }
 }
-
-
 ]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
@@ -230,8 +326,36 @@ class git2odi {
 	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_LINE_TRT]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1324384580128]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1324547372608]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
 		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1522837452067]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1326713773750]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1434621504767]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1444825710831]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[21]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1446318866730]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1456417622445]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[22]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1501854292772]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.DwgExportSummary">
 		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
@@ -243,17 +367,17 @@ class git2odi {
 	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="OdiVersion" type="java.lang.String"><![CDATA[11.1.1.7.0 - 02/03/2013]]></Field>
-	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[21]]></Field>
 	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[04.03.04.02]]></Field>
 </Object>
 </SunopsisExport>
